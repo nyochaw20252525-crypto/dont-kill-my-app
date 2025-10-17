@@ -1,4 +1,40 @@
----
+--zcxXCXZ
+XCXXVB
+CCCVV
+VVVVVVC
+RURURH
+GJFH
+N
+N
+J
+H
+H
+H
+H
+G
+H.HMH.B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
 manufacturer: 
     - xiaomi
 
@@ -143,7 +179,16 @@ Enable "Autostart" for desired apps.
   <img src="/assets/img/ss_xiaomi_as_2.png">
     <div class="img-block">
      <figure>
-          <img src="/assets/img/ss_xiaomi_as_3.png">
+          <img src="/assets/img/s
+              
+              
+              
+              
+              
+              
+              <img width="720" height="914" alt="1000006744" src="https://github.com/user-attachments/assets/859fa703-62fc-4d24-809f-4329654397fc" />
+<img width="720" height="877" alt="1000006742" src="https://github.com/user-attachments/assets/994c7a30-92a1-433e-9f9e-663f50da6040" />
+s_xiaomi_as_3.png">
        <figcaption>Search for Your app and tap to enable</figcaption>
      </figure>
     </div>
